@@ -8,7 +8,7 @@ Right now I’m deep into:
 - Treating debugging like an exploratory sport
 
 ### Blog
-Read about it here:  
+Read it here:  
 [**0xsalt.github.io**](https://0xsalt.github.io)
 
 Latest post:  
