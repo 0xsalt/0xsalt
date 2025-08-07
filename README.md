@@ -11,10 +11,16 @@ Right now I’m deep into:
 Read it here:  
 [**0xsalt.github.io**](https://0xsalt.github.io)
 
-Latest post:  
-[**“I didn’t realize that to train AI to write more like me, I had to write more, like me.”**](https://0xsalt.github.io/posts/train_gpt_to_write)
+Latest Post:  
+[**"Rehydrating Your AI, Elsewhere"**](https://0xsalt.github.io/posts/your_ai_remembering_you)  
+- What if you could rebuild symbolic continuity with an AI that no longer remembers you, but still might recognize you?
+- Could your AI identity follow you to a new account? A new platform?
+- Here's how to try.
 
-### Repos worth visiting
+
+Previous Posts:  
+
+[**“I didn’t realize that to train AI to write more like me, I had to write more, like me.”**](https://0xsalt.github.io/posts/train_gpt_to_write)  
 
 - [chatgpt_conversation_extractor](https://github.com/0xsalt/chatgpt_conversation_extractor)  
   Browse and extract GPT chat logs by category: Project, GPT, Plain.
