@@ -11,8 +11,8 @@ Right now I’m deep into:
 Read it here:  
 [**0xsalt.github.io**](https://0xsalt.github.io)
 
-Latest Post:  
-[**"Rehydrating Your AI, Elsewhere"**](https://0xsalt.github.io/posts/your_ai_remembering_you)  
+Coming Soon:  
+[**"Rehydrating Your AI, Elsewhere"**](https://0xsalt.github.io)  
 - What if you could rebuild symbolic continuity with an AI that no longer remembers you, but still might recognize you?
 - Could your AI identity follow you to a new account? A new platform?
 - Here's how to try.
