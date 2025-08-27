@@ -18,10 +18,10 @@ Coming Soon:
 - Here's the path forward.
 
 ### Latest Repos
-- [**mcp-knowledge-graph**](https://github.com/0xsalt/mcp-knowledge-graph)  
+[**mcp-knowledge-graph**](https://github.com/0xsalt/mcp-knowledge-graph)  
   Local Knowledge Graph Memory Server for MCP. Persistent, file-backed memory so your AI keeps context about *you* across sessions. Works with any MCP-capable client; currently working 1.0 MVP.
 
-- [**ai-github-actions**](https://github.com/0xsalt/ai-github-actions)  
+[**ai-github-actions**](https://github.com/0xsalt/ai-github-actions)  
   GitHub Actions + AI orchestration to chat with your documents, link insights, and run nightly summarizations. Designed to pair with `mcp-knowledge-graph`.
 
 - [chatgpt_conversation_extractor](https://github.com/0xsalt/chatgpt_conversation_extractor)  
