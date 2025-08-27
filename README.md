@@ -15,7 +15,7 @@ Coming Soon:
 [**"Rehydrating Your AI, Elsewhere"**](https://0xsalt.github.io)  
 - What if you could rebuild symbolic continuity with an AI that no longer remembers you, but still might recognize you?
 - Could your AI identity follow you to a new account? A new platform?
-- Here's how to try.
+- Here's the path forward.
 
 ### Latest Repos
 - [**mcp-knowledge-graph**](https://github.com/0xsalt/mcp-knowledge-graph)  
